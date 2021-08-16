@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Projeto de calculadora feita para iniciar nos estudos sobre **Svelte**.
+Projeto de calculadora feita para iniciar nos estudos sobre **Svelte**, baseado no [vídeo](https://www.youtube.com/watch?v=SVNTizLyuvo) do youtube da Cod3r Cursos.
 
 ## 🔨 Funcionalidades
 
